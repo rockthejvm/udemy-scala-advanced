@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/udemy-scala-advanced.iml" filepath="$PROJECT_DIR$/.idea/modules/udemy-scala-advanced.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/udemy-scala-advanced-build.iml" filepath="$PROJECT_DIR$/.idea/modules/udemy-scala-advanced-build.iml" />
+    </modules>
+  </component>
+</project>
